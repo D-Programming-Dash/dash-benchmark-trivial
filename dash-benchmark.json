@@ -1,0 +1,18 @@
+{
+    "name": "trivial",
+    "changelog": [],
+    "tests": [
+        {
+            "name": "empty_main",
+            "sourceFiles": ["empty_main.d"]
+        },
+        {
+            "name": "c_hello_world",
+            "sourceFiles": ["c_hello_world.d"]
+        },
+        {
+            "name": "d_hello_world",
+            "sourceFiles": ["d_hello_world.d"]
+        }
+    ]
+}
